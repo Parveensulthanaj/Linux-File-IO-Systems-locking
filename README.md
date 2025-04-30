@@ -152,7 +152,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-
+![alt text](img06/1.png)
 
 
 
