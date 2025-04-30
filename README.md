@@ -154,7 +154,6 @@ int main(int argc, char *argv[]) {
 
 ![alt text](img06/1.png)
 
-
-
+![alt text](img06/2.png)
 # RESULT:
 The programs are executed successfully.
